@@ -3,7 +3,7 @@
 <br/>  
 
 
-## Rapidfire  
+## About me: 
 <table><tr><td valign="top" width="50%">
 
 🔭I'm a student.  
@@ -25,7 +25,7 @@
 <br/>  
 
 
-## Languages and Tools  
+# 💻 Tech Stack:
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -39,18 +39,13 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Archita-Singha2k24&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Archita-Singha2k24&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Archita-Singha2k24&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archita-Singha2k24&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Archita-Singha2k24&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Archita-Singha2k24&&style=flat-square)  
   
