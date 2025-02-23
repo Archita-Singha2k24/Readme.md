@@ -1,58 +1,68 @@
-<div align="center">
-  <img height="300" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk4MTA0MTIsIm5iZiI6MTczOTgxMDExMiwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE3VDE2MzUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4YjNiNDYyMTNiMzU5MzgwMmJmMTE0OTA2ZjVkYjliM2VkMWRmNzY4YTk4MmQ2NjkxMDVkMzcwZjY4MWFlMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zsyRJDx1TFQhMB5cbbYoq6kX4CZZ2r0ZHGRJUbe2YXA"  />
-</div>
+## <div align="center">Hey 👋, Archita here !!!</div>  
+  
+<br/>  
 
-###
 
-<h3 align="center">Hey there 👋 Archita this side....<br>Passionate in learning software related stuffs  and emerging technologies.</h3>
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-###
+🔭I'm a student.  
+  
+🌱 I’m currently learning web development.  
 
-<h3 align="left">👩‍💻  About Me</h3>
+👩‍💻 I'm interested in learning technologies and about softwares.
+  
+ 📧Reach me at architasingha31@gmail.com   
 
-###
 
-<p align="left">🔭 I’m a Btech 1st year student...<br>📚 I'm currently learning JS and C languages<br>⚡ In my free time I do potraits and various kinds of arts</p>
+</td><td valign="top" width="50%">
 
-###
+<img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/104/205/original/image_processing20210301-3601-w1fbuc.gif?1700151755" align="left" height="" width="300" />  
 
-<h3 align="left">TECH STACK...</h3>
 
-###
+</td></tr></table>  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-</div>
+<br/>  
 
-###
 
-<h3 align="left">SOCIAL HANDLES...</h3>
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>  
 
-###
+<br/>  
 
-###
 
-<br clear="both">
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="35" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="35" alt="whatsapp logo"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-###
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archita-Singha2k24&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Archita-Singha2k24&&style=flat-square)  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
